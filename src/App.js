@@ -9,6 +9,13 @@ function App() {
         <h1>Hello world!</h1>
         <WeatherSearch />
       </header>
+      <footer>
+        Open-sourced on
+        <a href="https://github.com/thais-roome/weather-react" target="blank">
+          Github
+        </a>
+        . Coded by Thais Roome!🦋
+      </footer>
     </div>
   );
 }
